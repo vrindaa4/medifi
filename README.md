@@ -2,7 +2,7 @@
 
 A comprehensive doctor appointment booking system built with Node.js, Express, MongoDB, and React.
 
-## 🎯 **Major Improvements Made:**
+## 🎯 **Features:**
 
 ### 1. **Organized Directory Structure**
 - **Backend**: All server-side code moved to `backend/` folder
@@ -96,7 +96,3 @@ medifi/
 ├── shared/           # Shared constants
 └── package.json      # Root configuration
 ```
-
-The restructuring maintains all your existing functionality while providing a much cleaner, more maintainable, and scalable codebase. All API endpoints remain the same, but now they're better organized and more secure.
-
-Would you like me to help you set up the environment files or test the new structure?
