@@ -66,9 +66,7 @@ npm run build         # Build frontend for production
 3. Make your changes
 4. Submit a pull request
 
-## 📄 License
 
-This project is licensed under the ISC License.
 
 ## 🎯 **Next Steps:**
 
